@@ -1,3 +1,4 @@
 *.pt
 node_modules/
 __pycache__/
+*.yaml
